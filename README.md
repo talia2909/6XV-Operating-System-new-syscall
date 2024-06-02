@@ -1,8 +1,8 @@
-6XV - Project Overview 🖥️
-Description
+# 6XV - Project Overview 🖥️
+## Description
 This project introduces students to the structure and implementation of the 6XV operating system. Through hands-on tasks, users will learn about system calls, data structures, and practical aspects of building and running an operating system.
 
-What I Learned 📚
+## What I Learned 📚
 Throughout the development of this 6XV operating system project, several key concepts and skills were reinforced:
 
 Understanding 6XV Operating System: Gained in-depth knowledge about the architecture and components of the 6XV OS.
@@ -19,7 +19,7 @@ State Management: Learned the importance of state management in operating system
 
 Project Documentation: Improved documentation skills by organizing and writing clear, coherent README and project documentation.
 
-Objectives 🎯
+## Objectives 🎯
 Familiarize with the 6XV operating system.
 Understand the practical implementation of system calls.
 Explore different data structures used in an operating system.
@@ -31,11 +31,11 @@ The solution path for this project is slightly different from standard tutorials
 
 Do not modify h.syscall file: Understand the role of relevant data structures in the c.syscall file (lines 112-134) and find a workaround for the limitation.
 Make changes in S.usys file: Implement the necessary changes (additions) in the S.usys file to support the new system call and command.
-Features ✨
+## Features ✨
 System Components:
 System Call Addition: Add new system calls to extend the OS functionality.
 Command Implementation: Implement the ps command to display the status of processes in the system.
-Key Files:
+## Key Files:
 h.syscall: Header file with system call declarations (must not be modified).
 c.syscall: Contains data structures and system call implementations (focus on lines 112-134).
 S.usys: The file is to be modified to add new system calls and commands.
@@ -50,7 +50,7 @@ Usage 🛠️
 Understand the existing code: Familiarize yourself with the codebase and project structure.
 Implement changes: Add new system calls and commands as outlined in the project objectives.
 Compile and run the OS: Build and test the operating system to ensure all new features are correctly implemented.
-Contribution 🤝
+## Contribution 🤝
 To contribute to this project, follow these steps:
 
 Fork the repository: Create a fork of this repository.
