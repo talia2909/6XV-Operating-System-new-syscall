@@ -36,7 +36,7 @@ Add a new system call.
 Implement a new system command (ps) to display the status of processes.
 Gain hands-on experience in building and running an operating system.
 
-##Approach 🚀
+## Approach 🚀
 =======
 The solution path for this project is slightly different from standard tutorials:
 
@@ -61,11 +61,12 @@ Navigate to the project directory:
 
 cd 6XV-operating-system
 
-Usage 🛠️
+## Usage 🛠️
 =======
 Understand the existing code: Familiarize yourself with the codebase and project structure.
 Implement changes: Add new system calls and commands as outlined in the project objectives.
 Compile and run the OS: Build and test the operating system to ensure all new features are correctly implemented.
+
 ## Contribution 🤝
 =======
 To contribute to this project, follow these steps:
