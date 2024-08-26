@@ -36,7 +36,6 @@ Explore different data structures used in an operating system.
 Add a new system call.
 Implement a new system command (ps) to display the status of processes.
 Gain hands-on experience in building and running an operating system.
-Approach ??
 =======
 Approach 🚀
 The solution path for this project is slightly different from standard tutorials:
