@@ -39,7 +39,6 @@ Gain hands-on experience in building and running an operating system.
 Approach ??
 =======
 Approach 🚀
->>>>>>> 91c2b32355705c03b471c552dce2c570976a19c0
 The solution path for this project is slightly different from standard tutorials:
 
 Do not modify h.syscall file: Understand the role of relevant data structures in the c.syscall file (lines 112-134) and find a workaround for the limitation.
@@ -52,7 +51,7 @@ Command Implementation: Implement the ps command to display the status of proces
 Key Files:
 h.syscall: Header file with system call declarations (must not be modified).
 c.syscall: Contains data structures and system call implementations (focus on lines 112-134).
-S.usys: The file is to be modified to add new system calls and commands.
+S.usys: The file will be modified to add new system calls and commands.
 Installation ??
 =======
 ## Features ✨
