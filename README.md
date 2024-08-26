@@ -28,7 +28,7 @@ State Management: Learned the importance of state management in operating system
 Project Documentation: Improved documentation skills by organizing and writing clear, coherent README and project documentation.
 
 ## Objectives 🎯
-=======
+
 Familiarize with the 6XV operating system.
 Understand the practical implementation of system calls.
 Explore different data structures used in an operating system.
@@ -37,14 +37,14 @@ Implement a new system command (ps) to display the status of processes.
 Gain hands-on experience in building and running an operating system.
 
 ## Approach 🚀
-=======
+
 The solution path for this project is slightly different from standard tutorials:
 
 Do not modify h.syscall file: Understand the role of relevant data structures in the c.syscall file (lines 112-134) and find a workaround for the limitation.
 Make changes in S.usys file: Implement the necessary changes (additions) in the S.usys file to support the new system call and command.
 
 ## Features ✨
-=======
+
 System Components:
 System Call Addition: Add new system calls to extend the OS functionality.
 Command Implementation: Implement the ps command to display the status of processes in the system.
@@ -62,13 +62,13 @@ Navigate to the project directory:
 cd 6XV-operating-system
 
 ## Usage 🛠️
-=======
+
 Understand the existing code: Familiarize yourself with the codebase and project structure.
 Implement changes: Add new system calls and commands as outlined in the project objectives.
 Compile and run the OS: Build and test the operating system to ensure all new features are correctly implemented.
 
 ## Contribution 🤝
-=======
+
 To contribute to this project, follow these steps:
 Fork the repository: Create a fork of this repository.
 Create a new branch: Create a feature branch for your changes.
